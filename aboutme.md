@@ -41,51 +41,6 @@ Collaborazione con una community Instagram dedicata alla cultura nerd e geek, co
 
 ---
 
-## Progetti Personali
-
-La mia crescita come designer passa anche attraverso progetti personali che mi permettono di esplorare nuove tecniche e stili.
-
-### Copertine Fanmade di Manga
-Reinterpretazioni creative di copertine di manga popolari, con focus su composizione, tipografia e uso del colore.
-
-![Copertine Manga - Placeholder](/assets/img/manga-covers-placeholder.jpg)
-
-### Re-design di Interfacce
-Ridisegno concettuale di interfacce digitali popolari (Chrome, ChatGPT) con focus su usabilità e estetica moderna.
-
-![UI Redesign - Placeholder](/assets/img/ui-redesign-placeholder.jpg)
-
-### Brand Identity
-- Loghi per community Telegram
-- Cover personalizzate per playlist Spotify
-- Elementi grafici per progetti di streaming
-
-![Brand Projects - Placeholder](/assets/img/brand-placeholder.jpg)
-
----
-
-## Competenze
-
-**Design Tools**
-- Adobe Photoshop
-- Adobe Illustrator
-- Figma
-
-**Specializzazioni**
-- Graphic Design
-- Social Media Design
-- UI/UX Design
-- Brand Identity
-- Digital Illustration
-
-**Soft Skills**
-- Gestione autonoma dei progetti
-- Collaborazione in team remoti
-- Adattabilità a diversi stili e brief
-- Attenzione ai dettagli
-
----
-
 ## Contatti
 
 Sono sempre interessato a nuove collaborazioni e opportunità nel campo del design.
